@@ -16,7 +16,7 @@ const NavBar= () => {
             <Link className="App-link" to="/Donate">Donate To Me</Link>
         </li>
         <li>
-            <Link className="App-link" to="/Blog">Dogs</Link>
+            <Link className="App-link" to="/Blog">Blog</Link>
         </li>
       </div>
     );
