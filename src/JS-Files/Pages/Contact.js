@@ -3,10 +3,9 @@ import React from "react";
 const Contact = () =>{
     return (
         <div>
-            <h3>Home</h3>
+            <h3>Contact</h3>
             <div>
-                <img src="../images/Pink.jpeg"/>
-                <img src="../images/Wojack.jpeg"/>
+                <p>This is my Contact page</p>
             </div>
         </div>
     )

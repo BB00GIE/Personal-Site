@@ -4,8 +4,7 @@ const Home = () =>{
         <div>
             <h3>Home</h3>
             <div>
-                <img src="../images/Pink.jpeg"/>
-                <img src="../images/Wojack.jpeg"/>
+                <p>This is my home page</p>
             </div>
         </div>
     )
